@@ -35,4 +35,9 @@ const neve = {
 <a href="https://www.linkedin.com/in/pancic/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/30px-LinkedIn_logo_initials.png" alt="LinkedIn" style="vertical-align:middle">
 </a>
+<a href="mailto:nevenapancic97@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail Logo" width="30" height="30">
+</a>
+
+
 
