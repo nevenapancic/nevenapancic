@@ -22,10 +22,17 @@ const neve = {
   myProjects: ["Thriftique, second-hand marketplace", "WiseVoyage, seamless trip planner powered by advanced AI APIs"],
 }; 
 ```
+
+<h4>Github status:</h4>
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=nevenapancic&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevenapancic&count_private=true&theme=dracula">
+
+</p>
+
 <h4>Connect with me:</h4>
 <a href="https://www.linkedin.com/in/pancic/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/30px-LinkedIn_logo_initials.png" alt="LinkedIn" style="vertical-align:middle">
 </a>
-
-
 
